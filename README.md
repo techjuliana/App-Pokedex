@@ -1,6 +1,8 @@
+<h1 align="center">
+App Pokedex
 
 <h3 align="center">
-Feito em React Native, usando API com AXIOS, StyledComponents, Routes, Themes, Navegação por Stack, Loading de carregamento, Detalhes, Typescript, Animação, 
+Feito em React Native, usando API com AXIOS, StyledComponents, Routes, Themes, Navegação por Stack, Loading de carregamento, Detalhes, Typescript, Animação
 
 ### Projeto Design ONBOARDING COM ANIMAÇÃO ⬇️
 
@@ -21,11 +23,11 @@ Feito em React Native, usando API com AXIOS, StyledComponents, Routes, Themes, N
 ### `Expo start`
 
 Libs instaladas
-> yarn add lottie-react-native
-> yarn add axios
-> npx expo install react-native-reanimated
-> yarn add react-native-progress
-> yarn add react-native-svg
+- yarn add lottie-react-native
+- yarn add axios
+- npx expo install react-native-reanimated
+- yarn add react-native-progress
+- yarn add react-native-svg
 
 ## Tech Juliana
 
